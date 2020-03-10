@@ -1,0 +1,20 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "mongoose",
+      "settings": {
+        "database": "server",
+        "host": "cluster0-a8gco.mongodb.net",
+        "srv": "true",
+        "port": 27017,
+        "username": "vadim",
+        "password": "vadim"
+      },
+      "options": {
+        "authenticationDatabase": "",
+        "ssl": true
+      }
+    }
+  }
+}
